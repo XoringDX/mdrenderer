@@ -1,0 +1,9 @@
+### It's a simple static files server + markdown renderer to use as stream overlay
+
+Features: auto fetch web/README.MD and render it as HTML.
+Server install:
+
+    npm install
+    npm start
+    localhost:3000
+
