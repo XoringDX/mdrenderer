@@ -1,0 +1,24 @@
+body {
+    background-color: #0F0E11;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin: 12px;
+}
+h1, h2, h3 {
+    color: #6441A4;
+}
+
+blockquote {
+    margin-left: 20px;
+}
+blockquote p::before {
+    content: "> ";
+    font-weight: 600;
+    color: #6441A4;
+}
+pre {
+    margin: 10px;
+}
+pre code {
+    background: #6441A4;
+}

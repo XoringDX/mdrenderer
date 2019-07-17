@@ -1,0 +1,16 @@
+{
+  "name": "mdengine",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "npm --inspect server.js"
+  },
+  "author": "XoringDX",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0"
+  }
+}
