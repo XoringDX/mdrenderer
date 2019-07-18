@@ -1,6 +1,6 @@
 ### It's a simple static files server + markdown renderer to use as stream overlay
 
-Features: auto fetch web/README.MD and render it as HTML.
+Features: auto fetch web/TODO.MD and render it as HTML.
 Server install:
 
     npm install
@@ -9,4 +9,4 @@ Server install:
 
 How it's looks:
 
-[overlay in work](https://raw.githubusercontent.com/XoringDX/mdrenderer/master/mdrenderer.PNG "overlay in work")
+![overlay in work](https://raw.githubusercontent.com/XoringDX/mdrenderer/master/mdrenderer.PNG "overlay in work")
