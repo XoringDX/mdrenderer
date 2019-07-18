@@ -9,4 +9,4 @@ Server install:
 
 How it's looks:
 
-[overlay in work](https://github.com/XoringDX/mdrenderer/blob/master/mdrenderer.PNG?raw=true)
+[overlay in work](https://github.com/XoringDX/mdrenderer/blob/master/mdrenderer.PNG)
