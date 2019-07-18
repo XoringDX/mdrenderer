@@ -7,7 +7,7 @@ const insert = (ctx) => {
 
 
 setInterval(function(){
-fetch('./README.MD')
+fetch('./TODO.MD')
     .then(response => response.text())
     .then(text => insert(converter.makeHtml(text)))
      }, 5000);

@@ -7,3 +7,6 @@ Server install:
     npm start
     localhost:3000
 
+How it's looks:
+
+(./mdrenderer.PNG)[Alt]
